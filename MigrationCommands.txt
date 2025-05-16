@@ -1,0 +1,9 @@
+migration command from WEBUI project : 
+
+dotnet ef migrations add --startup-project "C:\Users\user\Desktop\QUIZ_API_PFE\src\WebUI" --project "C:\Users\user\Desktop\QUIZ_API_PFE\src\Infrastructure"
+
+
+what about database Update ? 
+they will be executed in code !
+
+database server Name : 
